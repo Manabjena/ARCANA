@@ -1,14 +1,18 @@
-﻿Dependencies:
+Dependencies:
 – Matplotlib_version==3.7.0
 – Install Flask,ta, io, base_64
 – Install Prophet,plotly,streamlit
 
 
 Steps to have this model work properly:
- Download the complete folde
-1. 1st have all dependencies cleared and then run the app.py file 
-2. Then run the command “streamlit run main.py for the main.py 
+ Download the complete folder
+ save all files in a single folder and then upload the dataset in that folder
+ dataset link: '''https://drive.google.com/file/d/1FmS75CarVlVPRVbCAR2p3yWNQnEMmQ_v/view?usp=sharing'''
+1. 1st have all dependencies run and then run the app.py file 
+2. Then run the command “streamlit run main.py for the main.py in a new terminal under that same folder 
 3. Remember to install all required dependencies
+
+
 Functionalities:
 * Portfolio Management:
 * Given the Capital and the list of stocks, we predict the amount that can be invested in each stock. 
